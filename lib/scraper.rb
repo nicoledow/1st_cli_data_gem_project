@@ -8,7 +8,7 @@ class Scraper
     #scrape page for info, add info to hash
     data = Nokogiri::HTML(open(url))
     city_info = {}
-    binding.pry
+    #binding.pry
   end
 
 
