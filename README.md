@@ -1,6 +1,6 @@
 # CliDataGemProject
 
-Hi there - welcome to my data gem!
+Hi there - welcome to my data gem! This gem uses data from timeanddate.com to give you current weather and time information on a city you input.
 
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/cli_data_gem_project`. To experiment with that code, run `bin/console` for an interactive prompt.
 
